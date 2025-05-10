@@ -4,7 +4,7 @@ modalidad de pago, cuotas y calificacion de los clientes, el fin de este analisi
 modelaje de diferentes graficos que ayudara a ver tendencia de datos con mayor facilidad, permitiendo sacar conclusiones con mayor rapidez y evitando confundirse a la hora de
 comparar diferentes datos.
 
-Estructura del proyecto:
+Estructura del proyecto:<br>
 1.Importancion de base de datos
 2.Ingresos de cada tienda
 3.Ventas por categoria
