@@ -5,10 +5,10 @@ modelaje de diferentes graficos que ayudara a ver tendencia de datos con mayor f
 comparar diferentes datos.
 
 Estructura del proyecto:<br>
-1.Importancion de base de datos
-2.Ingresos de cada tienda
-3.Ventas por categoria
-4.Promedio de calificacion de tienda
-5.Promedio de Costo de envio por tienda 
-6.Informe final
+1.Importancion de base de datos<br>
+2.Ingresos de cada tienda<br>
+3.Ventas por categoria<br>
+4.Promedio de calificacion de tienda<br>
+5.Promedio de Costo de envio por tienda<br> 
+6.Informe final<br>
 
